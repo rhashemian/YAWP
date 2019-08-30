@@ -1,0 +1,24 @@
+.yawp_utils input[type='text'] {
+  width:200px;
+}
+.yawp_utils input[type='submit'] {
+  background: #0085ba;
+  color: #eee;
+}
+.yawp_utils_message {
+  color: #cc8502;
+  font-weight:bold;
+}
+table {
+  text-align: center;
+}
+td {
+  padding: 5px;
+}
+.fa-window-close {
+  cursor: pointer;
+  color:#d22;
+}
+#addrow { 
+  background-color:#4d4;
+}

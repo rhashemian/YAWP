@@ -1,0 +1,12 @@
+.yawp_utils input[type='email'],
+.yawp_utils input[type='text'] {
+  width:300px;
+}
+.yawp_utils input[type='submit'] {
+  background: #0085ba;
+  color: #eee;
+}
+.yawp_utils_message {
+  color: #cc8502;
+  font-weight:bold;
+}
